@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjUwMzk2NmM1LWZjYWYtNGQyYi04ODE5LTM5MjEzNmVkOGZlMSIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://www.astatine.vip/scripts/all_in_one.lua"))({"MTMwNTA1NjkyOTAwNTE3ODk5NA"})
